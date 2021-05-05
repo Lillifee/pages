@@ -1,3 +1,3 @@
 # Lillifee projects
 
-## [RaspiCam](/raspicam)
+## [RaspiCam](https://lillifee.github.io/pages/raspicam/)
