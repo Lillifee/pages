@@ -1,4 +1,3 @@
-
 # 📷 RaspiCam
 
 RaspiCam is a react application to stream, take pictures or record videos from your raspberry pi camera over a web interface. The live stream is provided over a simple HTTP request and displayed using by the brilliant [JMuxer](https://github.com/samirkumardas/jmuxer).
