@@ -19,14 +19,14 @@ I'm using a **Raspberry PI Zero W** with a **Raspberry PI HQ camera**.
 
 You can find the 3d printing files on https://www.prusaprinters.org/prints/48519-raspberry-pi-zero-webcam-hq-camera
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiZeroHqCamera.jpg?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiZeroHqCamera.jpg)
 
 If you prefer a **Raspberry PI4**: 
 https://www.prusaprinters.org/prints/61556-raspberry-pi4-hq-camera-aluminium-mix
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiPi4HqCamera.jpg?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiPi4HqCamera.jpg?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot2.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot2.png?raw=true)
 
 # Installation
 
@@ -159,29 +159,29 @@ You can find the latest command sent to raspiCam in the terminal output:
 
 **HINT** If you found the right settings for your project, you can simple copy the command from there.
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/terminal.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/terminal.png)
 
 
 
 # Screenshots
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot1.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot1.png?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot2.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot2.png?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot3.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot3.png?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot4.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot4.png?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot5.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot5.png?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot6.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamSettingsShot6.png?raw=true)
 
 # Theme
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamTheme1.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamTheme1.png?raw=true)
 
-![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamTheme2.png?raw=true)
+![picture](https://raw.githubusercontent.com/Lillifee/raspiCam/master/screenshots/raspiCamTheme2.png?raw=true)
 
 # Roadmap and ideas
 
