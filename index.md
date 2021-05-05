@@ -19,14 +19,14 @@ I'm using a **Raspberry PI Zero W** with a **Raspberry PI HQ camera**.
 
 You can find the 3d printing files on https://www.prusaprinters.org/prints/48519-raspberry-pi-zero-webcam-hq-camera
 
-![picture](screenshots/raspiZeroHqCamera.jpg)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiZeroHqCamera.jpg)
 
 If you prefer a **Raspberry PI4**: 
 https://www.prusaprinters.org/prints/61556-raspberry-pi4-hq-camera-aluminium-mix
 
-![picture](screenshots/raspiPi4HqCamera.jpg)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiPi4HqCamera.jpg)
 
-![picture](screenshots/raspiCamSettingsShot2.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot2.png)
 
 # Installation
 
@@ -159,29 +159,29 @@ You can find the latest command sent to raspiCam in the terminal output:
 
 **HINT** If you found the right settings for your project, you can simple copy the command from there.
 
-![picture](screenshots/terminal.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/terminal.png)
 
 
 
 # Screenshots
 
-![picture](screenshots/raspiCamSettingsShot1.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot1.png)
 
-![picture](screenshots/raspiCamSettingsShot2.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot2.png)
 
-![picture](screenshots/raspiCamSettingsShot3.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot3.png)
 
-![picture](screenshots/raspiCamSettingsShot4.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot4.png)
 
-![picture](screenshots/raspiCamSettingsShot5.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot5.png)
 
-![picture](screenshots/raspiCamSettingsShot6.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamSettingsShot6.png)
 
 # Theme
 
-![picture](screenshots/raspiCamTheme1.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamTheme1.png)
 
-![picture](screenshots/raspiCamTheme2.png)
+![picture](https://github.com/Lillifee/raspiCam/tree/master/screenshots/raspiCamTheme2.png)
 
 # Roadmap and ideas
 
